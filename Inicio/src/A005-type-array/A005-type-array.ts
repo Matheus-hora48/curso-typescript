@@ -12,3 +12,4 @@ const result = multiplicaArgs(1, 2, 3);
 const concatena = concatenaString('1', '2', '3');
 
 console.log(result);
+console.log(concatena);
