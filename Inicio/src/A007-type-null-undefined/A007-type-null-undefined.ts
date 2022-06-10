@@ -12,6 +12,7 @@ export function createPerson(
   };
 }
 
+// null é um valor que nao existe
 export function squareOf(x: any) {
   if (typeof x === 'number') return x * x;
   return null;
