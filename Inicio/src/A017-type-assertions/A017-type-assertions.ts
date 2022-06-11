@@ -8,5 +8,5 @@ body2.style.background = 'red';
 
 //htmlElemente
 const input = document.querySelector('.input') as HTMLBodyElement;
-input.value = 'Qualquer coisa';
+//input.value = 'Qualquer coisa';
 input.focus;

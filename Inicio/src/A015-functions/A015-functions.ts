@@ -11,6 +11,6 @@ function mapStings(array: string[], callbackfn: CallableFunction): string[] {
 }
 
 const abc = ['a', 'b', 'c'];
-const abcMapped = mapStings(abc, (item) => item.toUpperCase());
+//const abcMapped = mapStings(abc, (item) => item.toUpperCase());
 
-console.log(abcMapped);
+//console.log(abcMapped);
